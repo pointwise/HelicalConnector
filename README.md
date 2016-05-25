@@ -1,4 +1,4 @@
-# Create Helical Connector
+# HelicalConnector
 A Glyph script for generating constant pitch helical connectors around a primary axis.
 
 ![CreateHelicalConnectorGUI](https://raw.github.com/pointwise/HelicalConnector/master/ScriptImage.png)
@@ -11,7 +11,7 @@ This script provides a way to create helical connectors by either typing points 
 * The number of periods must be non-zero
 * Manually input points must have a single space between each coordinate
 
-### Example, 2 period helical connector with different radii
+### Example: Two period helical connector with different radii
 * Dimension 150
 * Periods 2.0
 * Y-axis
